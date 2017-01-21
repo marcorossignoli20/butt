@@ -18,9 +18,9 @@ I parametri da fornire per la creazione sono i seguenti:
 Tutti i valori vanno passati sottoforma di stringa, eccetto per il nome del metodo che gestisce l'evento (scriverlo senza virgolette), in quanto verrà gestito dalla classe **Butt* come un oggetto da aggiungere all'**eventListener**.
 
 I metodi per la modifica del **button** e dei suoi parametri sono i seguenti:
-- *setButtonAttribute(attribute, value)*: passando l'attributo del tag *<button>* e il relativo valore verrà applicato all'oggetto **button**;
-- *setIconAttribute(attribute, value)*: passando l'attributo del tag *<i>* e il relativo valore verrà applicato all'oggetto **icon**;
-- *setTextAttribute(attribute, value)*: passando l'attributo del tag *<p>* e il relativo valore verrà applicato all'oggetto **text**;
+- *setButtonAttribute(attribute, value)*: passando l'attributo del tag *\<button\>* e il relativo valore verrà applicato all'oggetto **button**;
+- *setIconAttribute(attribute, value)*: passando l'attributo del tag *\<i\>* e il relativo valore verrà applicato all'oggetto **icon**;
+- *setTextAttribute(attribute, value)*: passando l'attributo del tag *\<p\>* e il relativo valore verrà applicato all'oggetto **text**;
 - *getButtonAttribute(attribute)*: ritorna il valore dell'attributo passato relativo all'oggetto **button**;
 - *getIconAttribute(attribute)*: ritorna il valore dell'attributo passato relativo all'oggetto **icon**;
 - *getTextAttribute(attribute)*: ritorna il valore dell'attributo passato relativo all'oggetto **text**;
