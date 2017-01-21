@@ -34,7 +34,7 @@ I metodi per la modifica del **button** e dei suoi parametri sono i seguenti:
 
 Esempio:
 
-...
+```
 window.onload = newbutton;
 var button;
 
@@ -49,7 +49,7 @@ function onClick() {
 	button.setButtonColor("green");
 	button.setText("ciao");
 }
-...
+```
 
-[Imgur](http://i.imgur.com/VpRiqmq.png)
+[Immagine dell'esempio](http://i.imgur.com/VpRiqmq.png)
 
