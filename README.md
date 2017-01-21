@@ -1,6 +1,6 @@
 #BUTT 
 
-Questa classe Javascript è stata realizzata per la creazione di un oggetto **button**. La classe provvede alla creazione di 3 oggetti, un oggetto **button** che contiene al suo interno un oggetto **icon** (<i>) e un oggetto **text** (<p>). 
+Questa classe Javascript è stata realizzata per la creazione di un oggetto **button**. La classe provvede alla creazione di 3 oggetti, un oggetto **button** che contiene al suo interno un oggetto **icon** (\<i\>) e un oggetto **text** (\<p\>). 
 I parametri da fornire per la creazione sono i seguenti:
 - altezza (in px);
 - larghezza (in px);
